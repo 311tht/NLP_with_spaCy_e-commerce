@@ -13,22 +13,21 @@ Người đóng góp:
 
 # Mục Lục
 
-Tổng quan
+I. Tổng quan
 
-Chuẩn bị kỹ thuật
+II. Chuẩn bị kỹ thuật
 
-Cài đặt spaCy
+ Cài đặt spaCy
 
-Cài đặt W2V
+ Cài đặt W2V
 
-Thực hiện dự đoán
+III. Thực hiện dự đoán
 
-Giai đoạn 1
+ Giai đoạn 1
 
-Giai đoạn 2
+ Giai đoạn 2
 
-Giai đoạn 3
-
+ Giai đoạn 3
 
 # Tổng quan
 Dự án được phát triển bởi các thành viên nhóm AI (D3) trong Savvycom.
