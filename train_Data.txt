@@ -1,0 +1,1238 @@
+[
+    (
+        "I love this brand of toothpaste",
+        {
+            "entities": [(16, 24, "PRODUCT")]
+        },
+    ),
+    (
+        "The coffee maker makes great coffee",
+        {
+            "entities": [(4, 15, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to buy a new printer",
+        {
+            "entities": [(22, 28, "PRODUCT")]
+        },
+    ),
+    (
+        "This lotion is very moisturizing",
+        {
+            "entities": [(5, 11, "PRODUCT")]
+        },
+    ),
+    (
+        "I use this brand of shampoo all the time",
+        {
+            "entities": [(22, 28, "PRODUCT")]
+        },
+    ),
+    (
+        "This camera takes high-quality photos",
+        {
+            "entities": [(5, 11, "PRODUCT")]
+        },
+    ),
+    (
+        "I want to buy a new pair of headphones",
+        {
+            "entities": [(20, 28, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of cereal is my favorite",
+        {
+            "entities": [(16, 22, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to get more printer paper",
+        {
+            "entities": [(15, 20, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of juice is really good",
+        {
+            "entities": [(16, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "These headphones have great sound quality",
+        {
+            "entities": [(6, 16, "PRODUCT")]
+        },
+    ),
+    (
+        "I want to buy a new laptop",
+        {
+            "entities": [(20, 26, "PRODUCT")]
+        },
+    ),
+    (
+        "This soap smells really nice",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "I love this brand of tea",
+        {
+            "entities": [(16, 19, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of chips is really tasty",
+        {
+            "entities": [(16, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "I need more printer ink",
+        {
+            "entities": [(15, 20, "PRODUCT")]
+        },
+    ),
+    (
+        "This jacket is really warm",
+        {
+            "entities": [(5, 12, "PRODUCT")]
+        },
+    ),
+    (
+        "I want to buy a new phone",
+        {
+            "entities": [(20, 25, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of cookies is delicious",
+        {
+            "entities": [(16, 23, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of paper towels is my favorite",
+        {
+            "entities": [(16, 28, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to buy a new pair of shoes",
+        {
+            "entities": [(22, 27, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of yogurt is really good",
+        {
+            "entities": [(16, 22, "PRODUCT")]
+        },
+    ),
+    (
+        "These headphones are very comfortable",
+        {
+            "entities": [(6, 16, "PRODUCT")]
+        },
+    ),
+    (
+        "I love this brand of chips",
+        {
+            "entities": [(16, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of bread is my favorite",
+        {
+            "entities": [(16, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "This camera has great features",
+        {
+            "entities": [(5, 11, "PRODUCT")]
+        },
+    ),
+    (
+        "I want to try this new brand of coffee",
+        {
+            "entities": [(24, 30, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of ice cream is really tasty",
+        {
+            "entities": [(16, 24, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to get more laundry detergent",
+        {
+            "entities": [(15, 31, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of cheese is really good",
+        {
+            "entities": [(16, 22, "PRODUCT")]
+        },
+    ),
+    (
+        "I want to buy a new pair of running shoes",
+        {
+            "entities": [(22, 33, "PRODUCT")]
+        },
+    ),
+    (
+        "This candle smells amazing",
+        {
+            "entities": [(5, 11, "PRODUCT")]
+       ),
+    (
+        "I love this brand of lotion",
+        {
+            "entities": [(16, 22, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of pasta is my favorite",
+        {
+            "entities": [(16, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to buy a new keyboard",
+        {
+            "entities": [(22, 29, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of tea is really tasty",
+        {
+            "entities": [(16, 19, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of salsa is really good",
+        {
+            "entities": [(16, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "I want to buy a new tablet",
+        {
+            "entities": [(20, 26, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of wine is really delicious",
+        {
+            "entities": [(16, 20, "PRODUCT")]
+        },
+    ),
+    (
+        "I need more printer cartridges",
+        {
+            "entities": [(15, 23, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of popcorn is really tasty",
+        {
+            "entities": [(16, 23, "PRODUCT")]
+        },
+    ),
+    (
+        "These shoes are really stylish",
+        {
+            "entities": [(6, 11, "PRODUCT")]
+        },
+    ),
+    (
+        "I love this brand of soap",
+        {
+            "entities": [(16, 20, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of hot sauce is really spicy",
+        {
+            "entities": [(16, 24, "PRODUCT")]
+        },
+    ),
+    (
+        "I want to buy a new smartwatch",
+        {
+            "entities": [(20, 29, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of cookies is my favorite",
+        {
+            "entities": [(16, 23, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to buy a new mouse",
+        {
+            "entities": [(22, 27, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of juice is really refreshing",
+        {
+            "entities": [(16, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of cereal is really healthy",
+        {
+            "entities": [(16, 22, "PRODUCT")]
+        },
+    ),
+    (
+        "I want to buy a new pair of boots",
+        {
+            "entities": [(22, 27, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of chips is really crispy",
+        {
+            "entities": [(16, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "I need more hand soap",
+        {
+            "entities": [(15, 23, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of tea is really fragrant",
+        {
+            "entities": [(16, 19, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of peanut butter is really creamy",
+        {
+            "entities": [(16, 27, "PRODUCT")]
+        },
+    ),
+    (
+        "I want to buy a new keyboard and mouse",
+        {
+            "entities": [(22, 29, "PRODUCT"), (34, 39, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of coffee is really rich",
+        {
+            "entities": [(16, 22, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to get more dish soap",
+        {
+            "entities": [(15, 23, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of wine is really smooth",
+        {
+            "entities": [(16, 20, "PRODUCT")]
+        },
+    ),
+    (
+        "I want to buy a new pair of sandals",
+        {
+            "entities": [(22, 29, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of ice cream is really creamy",
+        {
+            "entities": [(16, 24, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to buy a new power bank",
+        {
+            "entities": [(22, 30, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of salsa is really flavorful",
+        {
+            "entities": [(16, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "I want to try this new brand of tea",
+        {
+            "entities": [(24, 27, "PRODUCT")]
+        },
+    ),
+    (
+        "This brand of cheese is really creamy",
+        {
+            "entities": [(16, 22, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a great camera",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop is very fast and reliable",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "I love this brand of jeans",
+        {
+            "entities": [(16, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone is amazing",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop has a long battery life",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "These shoes are very comfortable",
+        {
+            "entities": [(6, 11, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a great battery life",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop has a beautiful design",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "I love this brand of t-shirts",
+        {
+            "entities": [(16, 23, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone is very user-friendly",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop is lightweight and portable",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This dress is perfect for a night out",
+        {
+            "entities": [(5, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a large screen",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop is great for gaming",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "These pants are very stylish",
+        {
+            "entities": [(6, 11, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone is very reliable",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop has a powerful processor",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This shirt is very comfortable",
+        {
+            "entities": [(5, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a lot of storage",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop has a high-resolution display",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "These sneakers are great for running",
+        {
+            "entities": [(6, 14, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone is very affordable",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop has a backlit keyboard",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This jacket is very warm",
+        {
+            "entities": [(5, 12, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a fast processor",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop is perfect for business use",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This skirt is very flattering",
+        {
+            "entities": [(5, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a great design",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop is great for video editing",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "These shorts are perfect for summer",
+        {
+            "entities": [(6, 12, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone is very lightweight",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop has a fingerprint scanner",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This coat is perfect for winter",
+        {
+"entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a great battery",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop has a durable build",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "These leggings are very comfortable",
+        {
+            "entities": [(6, 14, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a clear display",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop is sleek and stylish",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This blouse is perfect for work",
+        {
+            "entities": [(5, 11, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a great camera",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop is very versatile",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "These boots are very durable",
+        {
+            "entities": [(6, 11, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone is very fast",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop has a large storage capacity",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This sweater is very cozy",
+        {
+            "entities": [(5, 12, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a sleek design",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop has a high-quality display",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This dress is very elegant",
+        {
+            "entities": [(5, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a long battery life",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop has a comfortable keyboard",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "These sunglasses are very stylish",
+        {
+            "entities": [(6, 16, "PRODUCT")]
+        },
+    ),
+    (
+        "This phone has a great price",
+        {
+            "entities": [(5, 9, "PRODUCT")]
+        },
+    ),
+    (
+        "The laptop is very easy to use",
+        {
+            "entities": [(4, 10, "PRODUCT")]
+        },
+    ),
+    (
+        "This hat is very trendy",
+        {
+            "entities": [(5, 8, "PRODUCT")]
+        },
+    ),(
+        "I just bought the new iPhone 13 and it's amazing",
+        {
+            "entities": [(21, 29, "PRODUCT")]
+        },
+    ),
+    (
+        "The camera on the Samsung Galaxy S21 is top-notch",
+        {
+            "entities": [(20, 38, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to buy the Google Pixel 6 soon",
+        {
+            "entities": [(20, 32, "PRODUCT")]
+        },
+    ),
+    (
+        "The user interface on the OnePlus 9 Pro is great",
+        {
+            "entities": [(5, 15, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm thinking of upgrading to the Samsung Galaxy Z Fold3",
+        {
+            "entities": [(28, 50, "PRODUCT")]
+        },
+    ),
+    (
+        "The battery life on the Xiaomi Mi 11 is excellent",
+        {
+            "entities": [(28, 38, "PRODUCT")]
+        },
+    ),
+    (
+        "I dropped my Sony Xperia 1 III and the screen cracked",
+        {
+            "entities": [(14, 28, "PRODUCT")]
+        },
+    ),
+    (
+        "The Oppo Find X3 Pro has a lot of cool features",
+        {
+            "entities": [(4, 18, "PRODUCT")]
+        },
+    ),
+    (
+        "I can't live without my Apple iPhone 12 Pro Max",
+        {
+            "entities": [(25, 41, "PRODUCT")]
+        },
+    ),
+    (
+        "The Samsung Galaxy Note20 Ultra is worth every penny",
+        {
+            "entities": [(4, 30, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm having trouble with my Google Pixel 5's battery",
+        {
+            "entities": [(25, 37, "PRODUCT")]
+        },
+    ),
+    (
+        "The Sony Xperia 5 II is so easy to use",
+        {
+            "entities": [(4, 18, "PRODUCT")]
+        },
+    ),
+    (
+        "I love the design of the Huawei P40 Pro",
+        {
+            "entities": [(25, 36, "PRODUCT")]
+        },
+    ),
+    (
+        "The ASUS ROG Phone 5 is perfect for gaming",
+        {
+            "entities": [(4, 18, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm looking for a phone with a good camera like the Xiaomi Mi 11 Ultra",
+        {
+            "entities": [(43, 58, "PRODUCT")]
+        },
+    ),
+    (
+        "The Cat S62 Pro is very durable",
+        {
+            "entities": [(4, 16, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm having issues with my Samsung Galaxy S20's storage",
+        {
+            "entities": [(25, 44, "PRODUCT")]
+        },
+    ),
+    (
+        "The OnePlus Nord CE 5G has a lot of storage space",
+        {
+            "entities": [(4, 25, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm in love with the Motorola Edge Plus",
+        {
+            "entities": [(24, 40, "PRODUCT")]
+        },
+    ),
+    (
+        "The display on the LG Velvet 5G is beautiful",
+        {
+            "entities": [(22, 37, "PRODUCT")]
+        },
+    ),
+    (
+        "I need a new phone with better performance like the Asus ZenFone 8",
+        {
+            "entities": [(47, 60, "PRODUCT")]
+        },
+    ),
+    (
+        "The Xiaomi Poco X3 NFC is very affordable",
+        {
+            "entities": [(4, 22, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm impressed with the speed of the Realme GT",
+        {
+            "entities": [(26, 35, "PRODUCT")]
+        },
+    ),
+    
+
+    (
+        "I love wearing my Levi's jeans",
+        {
+            "entities": [(19, 25, "PRODUCT")]
+        },
+    ),
+    (
+        "I just bought a new pair of Nike sneakers",
+        {
+            "entities": [(20, 24, "PRODUCT")]
+        },
+    ),
+    (
+        "The material of this Adidas t-shirt is very comfortable",
+        {
+            "entities": [(28, 34, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to buy new running shoes soon",
+        {
+            "entities": [(21, 34, "PRODUCT")]
+        },
+    ),
+    (
+        "This Lululemon yoga pants fits me perfectly",
+        {
+            "entities": [(5, 14, "PRODUCT")]
+        },
+    ),
+    (
+        "The North Face jacket I bought last winter kept me warm",
+        {
+            "entities": [(4, 16, "PRODUCT")]
+        },
+    ),
+    (
+        "I spilled coffee on my H&M sweater",
+        {
+            "entities": [(22, 26, "PRODUCT")]
+        },
+    ),
+    (
+        "I really like the style of Zara clothing",
+        {
+            "entities": [(26, 31, "PRODUCT")]
+        },
+    ),
+    (
+        "I can never have enough pairs of Converse shoes",
+        {
+            "entities": [(30, 37, "PRODUCT")]
+        },
+    ),
+    (
+        "This Uniqlo down jacket is perfect for cold weather",
+        {
+            "entities": [(5, 11, "PRODUCT")]
+        },
+    ),
+    (
+        "I need a new suit for my friend's wedding",
+        {
+            "entities": [(10, 14, "PRODUCT")]
+        },
+    ),
+    (
+        "The quality of this Patagonia fleece is excellent",
+        {
+            "entities": [(22, 30, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm looking for a new pair of Ray-Ban sunglasses",
+        {
+            "entities": [(26, 32, "PRODUCT")]
+        },
+    ),
+    (
+        "I spilled red wine on my favorite H&M dress",
+        {
+            "entities": [(35, 39, "PRODUCT")]
+        },
+    ),
+    (
+        "The material of this Under Armour hoodie is perfect for working out",
+        {
+            "entities": [(28, 41, "PRODUCT")]
+        },
+    ),
+    (
+        "I need new running shorts for the summer",
+        {
+            "entities": [(8, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "This Abercrombie & Fitch shirt is my go-to for casual outings",
+        {
+            "entities": [(5, 25, "PRODUCT")]
+        },
+    ),
+    (
+        "I spilled ketchup on my favorite Ralph Lauren polo shirt",
+        {
+            "entities": [(36, 50, "PRODUCT")]
+        },
+    ),
+    (
+        "The style of this H&M blazer is perfect for job interviews",
+        {
+            "entities": [(22, 26, "PRODUCT")]
+        },
+    ),
+    (
+        "I really like the design of this Fjallraven backpack",
+        {
+            "entities": [(32, 40, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to buy a new winter coat from Canada Goose",
+        {
+            "entities": [(32, 44, "PRODUCT")]
+        },
+    ),
+    (
+        "This Levi's denim jacket is a staple in my wardrobe",
+        {
+            "entities": [(5, 11, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm looking for a new pair of dress shoes for my sister's wedding",
+        {
+            "entities": [(26, 36, "PRODUCT")]
+        },
+    ),
+    (
+        "I just bought a pair of Vans sneakers and they're so comfortable",
+        {
+            "entities": [(20, 24, "PRODUCT")]
+        },
+    ),
+    (
+        "The quality of this Columbia jacket is really good",
+        {
+            "entities": [(22, 29, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to buy new workout leggings from Lululemon",
+        {
+            "entities": [(26, 36, "PRODUCT")]
+        },
+    ),
+    (
+        "The style of this Tommy Hilfiger shirt is perfect for casual wear",
+        {
+            "entities": [(22, 36, "PRODUCT")]
+        },
+    ),
+    (
+        "I spilled soy sauce on my favorite Uniqlo sweater",
+        {
+            "entities": [(34, 40, "PRODUCT")]
+        },
+    ),
+    (
+        "I really like the fit of these Levi's skinny jeans",
+        {
+            "entities": [(30, 36, "PRODUCT")]
+        },
+    ),
+    (
+        "This Patagonia vest is perfect for layering",
+        {
+            "entities": [(5, 14, "PRODUCT")]
+        },
+    ),
+    (
+        "I need new running shoes from Brooks",
+        {
+            "entities": [(23, 29, "PRODUCT")]
+        },
+    ),
+    (
+        "I spilled coffee on my favorite Abercrombie & Fitch hoodie",
+        {
+            "entities": [(35, 55, "PRODUCT")]
+        },
+    ),
+    (
+        "The material of this H&M blouse is very soft",
+        {
+            "entities": [(22, 26, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm looking for a new pair of winter boots from UGG",
+        {
+            "entities": [(32, 35, "PRODUCT")]
+        },
+    ),
+    (
+        "This Calvin Klein dress is perfect for special occasions",
+        {
+            "entities": [(5, 18, "PRODUCT")]
+        },
+    ),
+    (
+        "I need a new pair of sandals from Birkenstock",
+        {
+            "entities": [(26, 36, "PRODUCT")]
+        },
+    ),
+    (
+        "I spilled mustard on my favorite Ralph Lauren shirt",
+        {
+            "entities": [(36, 50, "PRODUCT")]
+        },
+    ),
+    (
+        "The style of this Zara blazer is perfect for business meetings",
+        {
+            "entities": [(22, 26, "PRODUCT")]
+        },
+    ),
+    (
+        "I really like the design of this Herschel backpack",
+        {
+            "entities": [(32, 40, "PRODUCT")]
+        },
+    ),
+    (
+        "I need to buy a new raincoat from The North Face",
+        {
+            "entities": [(24, 35, "PRODUCT")]
+        },
+    ),
+    (
+        "This Adidas track jacket is perfect for workouts",
+        {
+            "entities": [(5, 11, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm looking for a new pair of boots from Timberland",
+        {
+            "entities": [(26, 36, "PRODUCT")]
+        },
+    ),
+    (
+        "I spilled ketchup on my favorite Nike hoodie",
+        {
+            "entities": [(36, 40, "PRODUCT")]
+        },
+    ),
+    (
+        "The material of this Puma t-shirt is very breathable",
+        {
+            "entities": [(22, 26, "PRODUCT")]
+        },
+    ),
+    (
+        "I need new workout shoes from Reebok",
+        {
+            "entities": [(23, 29, "PRODUCT")]
+        },
+    ),
+    (
+        "I just bought a new MacBook Pro and it's amazing",
+        {
+            "entities": [(20, 32, "PRODUCT")]
+        },
+    ),
+    (
+        "This Dell XPS has a great display",
+        {
+            "entities": [(5, 14, "PRODUCT")]
+        },
+    ),
+    (
+        "The keyboard on this Lenovo ThinkPad is very comfortable",
+        {
+            "entities": [(24, 36, "PRODUCT")]
+        },
+    ),
+    (
+        "The ASUS ROG Zephyrus is a great gaming laptop",
+        {
+            "entities": [(4, 20, "PRODUCT")]
+        },
+    ),
+    (
+        "I need a new HP Spectre for work",
+        {
+            "entities": [(12, 21, "PRODUCT")]
+        },
+    ),
+    (
+        "The Acer Swift 5 is very lightweight and portable",
+        {
+            "entities": [(4, 14, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm thinking about getting a new Microsoft Surface Laptop",
+        {
+            "entities": [(33, 53, "PRODUCT")]
+        },
+    ),
+    (
+        "The Razer Blade is a powerful gaming laptop",
+        {
+            "entities": [(4, 14, "PRODUCT")]
+        },
+    ),
+    (
+        "The battery life on this Huawei MateBook X Pro is impressive",
+        {
+            "entities": [(29, 45, "PRODUCT")]
+        },
+    ),
+    (
+        "I really like the design of this LG Gram laptop",
+        {
+            "entities": [(32, 42, "PRODUCT")]
+        },
+    ),
+    (
+        "The Lenovo Yoga C940 has a 360-degree hinge for versatile use",
+        {
+            "entities": [(4, 20, "PRODUCT")]
+        },
+    ),
+    (
+        "This MSI GS65 Stealth is a great gaming laptop",
+        {
+            "entities": [(5, 20, "PRODUCT")]
+        },
+    ),
+    (
+        "I need a new Dell Inspiron for school",
+        {
+            "entities": [(12, 23, "PRODUCT")]
+        },
+    ),
+    (
+        "The HP Envy x360 is a 2-in-1 laptop with a touchscreen",
+        {
+            "entities": [(4, 16, "PRODUCT")]
+        },
+    ),
+    (
+        "The Acer Predator Triton 500 is a high-end gaming laptop",
+        {
+            "entities": [(4, 24, "PRODUCT")]
+        },
+    ),
+    (
+        "I'm considering getting a new Apple MacBook Air",
+        {
+            "entities": [(31, 44, "PRODUCT")]
+        },
+    ),
+    (
+        "The ASUS ZenBook is a sleek and stylish laptop",
+        {
+            "entities": [(4, 14, "PRODUCT")]
+        },
+    ),
+    (
+        "This Microsoft Surface Book 2 has a detachable screen",
+        {
+            "entities": [(5, 23, "PRODUCT")]
+        },
+    ),
+    (
+        "The Lenovo Legion Y540 is a great budget gaming laptop",
+        {
+            "entities": [(4, 20, "PRODUCT")]
+        },
+    ),
+    (
+        "I really like the performance of this Razer Blade Pro",
+        {
+            "entities": [(35, 47, "PRODUCT")]
+        },
+    )
+]
