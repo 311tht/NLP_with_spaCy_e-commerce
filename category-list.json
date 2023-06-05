@@ -1,0 +1,359 @@
+[
+    {
+        "category": "phone",
+        "item attributes": {
+            "COLOR": "RED",
+            "RAM": 13,
+            "PRICE": 1500
+        }
+    },
+    {
+        "category": "clothes",
+        "item attributes": {
+            "COLOR": "BLUE",
+            "MATERIAL": "cotton",
+            "PRICE": 45
+        }
+    },
+    {
+        "category": "laptop",
+        "item attributes": {
+            "COLOR": "GREEN",
+            "RAM": 16,
+            "PRICE": 3000
+        }
+    },
+    {
+        "category": "book",
+        "item attributes": {
+            "TITLE": "To Kill A Mockingbird",
+            "AUTHOR": "Harper Lee",
+            "PRICE": 10
+        }
+    },
+    {
+        "category": "beauty",
+        "item attributes": {
+            "BRAND": "L'Oreal",
+            "TYPE": "Shampoo",
+            "PRICE": 5
+        }
+    },
+    {
+        "category": "furniture",
+        "item attributes": {
+            "TYPE": "Sofa",
+            "COLOR": "Grey",
+            "PRICE": 500
+        }
+    },
+    {
+        "category": "electronics",
+        "item attributes": {
+            "BRAND": "Samsung",
+            "TYPE": "TV",
+            "SCREEN_SIZE": 55,
+            "PRICE": 1000
+        }
+    },
+    {
+        "category": "food",
+        "item attributes": {
+            "TYPE": "Chocolate",
+            "BRAND": "Cadbury",
+            "PRICE": 2
+        }
+    },
+    {
+        "category": "music",
+        "item attributes": {
+            "ARTIST": "The Beatles",
+            "ALBUM": "Abbey Road",
+            "PRICE": 15
+        }
+    },
+    {
+        "category": "sports",
+        "item attributes": {
+            "SPORT": "Basketball",
+            "BRAND": "Nike",
+            "PRICE": 100
+        }
+    },
+    {
+        "category": "toys",
+        "item attributes": {
+            "TYPE": "Action Figure",
+            "BRAND": "Hasbro",
+            "PRICE": 20
+        }
+    },
+    {
+        "category": "jewelry",
+        "item attributes": {
+            "TYPE": "Necklace",
+            "MATERIAL": "Gold",
+            "PRICE": 5000
+        }
+    },
+    {
+        "category": "home",
+        "item attributes": {
+            "TYPE": "Curtains",
+            "COLOR": "White",
+            "PRICE": 50
+        }
+    },
+    {
+        "category": "pet supplies",
+        "item attributes": {
+            "TYPE": "Dog Food",
+            "BRAND": "Pedigree",
+            "PRICE": 20
+        }
+    },
+    {
+        "category": "office supplies",
+        "item attributes": {
+            "TYPE": "Pen",
+            "BRAND": "Pilot",
+            "PRICE": 2
+        }
+    },
+    {
+        "category": "beverages",
+        "item attributes": {
+            "TYPE": "Coffee",
+            "BRAND": "Starbucks",
+            "PRICE": 5
+        }
+    },
+    {
+        "category": "tools",
+        "item attributes": {
+            "TYPE": "Drill",
+            "BRAND": "DeWalt",
+            "PRICE": 100
+        }
+    },
+    {
+        "category": "baby",
+        "item attributes": {
+            "TYPE": "Diapers",
+            "BRAND": "Pampers",
+            "PRICE": 30
+        }
+    },
+    {
+        "category": "health",
+        "item attributes": {
+            "TYPE": "Vitamins",
+            "BRAND": "Nature Made",
+            "PRICE": 15
+        }
+    },
+    {
+        "category": "outdoor",
+        "item attributes": {
+            "TYPE": "Tent",
+            "BRAND": "Coleman",
+            "PRICE": 200
+        }
+    },
+    {
+        "category": "beauty",
+        "item attributes": {
+            "BRAND": "Clinique",
+            "TYPE": "Lipstick",
+            "PRICE": 25
+        }
+    },
+    {
+        "category": "food",
+        "item attributes": {
+            "TYPE": "Pizza",
+            "BRAND": "Domino's",
+            "PRICE": 12
+        }
+    },
+    {
+        "category": "home",
+        "item attributes": {
+            "TYPE": "Pillow",
+            "MATERIAL": "Memory Foam",
+            "PRICE": 30
+        }
+    },
+    {
+        "category": "electronics",
+        "item attributes": {
+            "BRAND": "Apple",
+            "TYPE": "iPad",
+            "RAM": 8,
+            "PRICE": 700
+        }
+    },
+    {
+        "category": "clothes",
+        "item attributes": {
+            "TYPE": "T-Shirt",
+            "COLOR": "Black",
+            "SIZE": "Small",
+            "PRICE": 20
+        }
+    },
+    {
+        "category": "office supplies",
+        "item attributes": {
+            "TYPE": "Stapler",
+            "BRAND": "Swingline",
+            "PRICE": 5
+        }
+    },
+    {
+        "category": "beverages",
+        "item attributes": {
+            "TYPE": "Tea",
+            "BRAND": "Twinings",
+            "PRICE": 3
+        }
+    },
+    {
+        "category": "toys",
+        "item attributes": {
+            "TYPE": "Legos",
+            "BRAND": "LEGO",
+            "PRICE": 50
+        }
+    },
+    {
+        "category": "music",
+        "item attributes": {
+            "ARTIST": "Adele",
+            "ALBUM": "21",
+            "PRICE": 10
+        }
+    },
+    {
+        "category": "tools",
+        "item attributes": {
+            "TYPE": "Hammer",
+            "BRAND": "Stanley",
+            "PRICE": 20
+        }
+    },
+    {
+        "category": "pet supplies",
+        "item attributes": {
+            "TYPE": "Cat Food",
+            "BRAND": "Friskies",
+            "PRICE": 10
+        }
+    },
+    {
+        "category": "home",
+        "item attributes": {
+            "TYPE": "Tablecloth",
+            "COLOR": "Red",
+            "PRICE": 25
+        }
+    },
+    {
+        "category": "furniture",
+        "item attributes": {
+            "TYPE": "Bed",
+            "COLOR": "Gray",
+            "PRICE": 1000
+        }
+    },
+    {
+        "category": "beauty",
+        "item attributes": {
+            "BRAND": "Maybelline",
+            "TYPE": "Mascara",
+            "PRICE": 8
+        }
+    },
+    {
+        "category": "food",
+        "item attributes": {
+            "TYPE": "Ice Cream",
+            "BRAND": "Ben & Jerry's",
+            "PRICE": 6
+        }
+    },
+    {
+        "category": "sports",
+        "item attributes": {
+            "SPORT": "Tennis",
+            "BRAND": "Wilson",
+            "PRICE": 50
+        }
+    },
+    {
+        "category": "electronics",
+        "item attributes": {
+            "BRAND": "Sony",
+            "TYPE": "Headphones",
+            "PRICE": 100
+        }
+    },
+    {
+        "category": "baby",
+        "item attributes": {
+            "TYPE": "Stroller",
+            "BRAND": "Graco",
+            "PRICE": 200
+        }
+    },
+    {
+        "category": "home",
+        "item attributes": {
+            "TYPE": "Bath Mat",
+            "COLOR": "Blue",
+            "PRICE": 15
+        }
+    },
+    {
+        "category": "beverages",
+        "item attributes": {
+            "TYPE": "Wine",
+            "BRAND": "Barefoot",
+            "PRICE": 8
+        }
+    },
+    {
+        "category": "outdoor",
+        "item attributes": {
+            "TYPE": "BBQ Grill",
+            "BRAND": "Weber",
+            "PRICE": 500
+        }
+    },
+    {
+        "category": "music",
+        "item attributes": {
+            "ARTIST": "Beyonce",
+            "ALBUM": "Lemonade",
+            "PRICE": 20
+        }
+    },
+    {
+        "category": "clothes",
+        "item attributes": {
+            "TYPE": "Jeans",
+            "COLOR": "Blue",
+            "SIZE": "Medium",
+            "PRICE": 50
+        }
+    },
+    {
+        "category": "office supplies",
+        "item attributes": {
+            "TYPE": "Notebook",
+            "BRAND": "Moleskine",
+            "PRICE": 10
+        }
+    }
+
+]
